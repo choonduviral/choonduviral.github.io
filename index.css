@@ -85,13 +85,13 @@ body{
 
     }
     #audio-header{
-        font-size: 25px;
+        font-size: 50px;
 
     }
     #main-header{
-        font-size: 36px;
+        font-size: 50px;
     }
     #footer-text{
-        font-size: 18px;;
+        font-size: 25px;;
     }
 }
