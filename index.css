@@ -19,6 +19,8 @@ body{
     /* width: 60vw; */
     margin: auto;
     border-radius: 8px;
+    padding-top: 28px;
+    padding-bottom: 28px;
  
 }
 #main-header{
@@ -69,10 +71,9 @@ body{
     font-family: 'Quicksand', sans-serif;
 }
 
-@media(max-width:400px){
+@media(max-width:1000px){
     #description{
         font-size: 40px;
-
     }
     #audio-header{
         font-size: 50px;
