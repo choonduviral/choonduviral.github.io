@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0px;
+}
+body{
+    background-image: linear-gradient(135deg, rgb(248, 142, 158), #c6abff)
+    ;
+    display: grid;
+   grid-template-rows: 8% 84% 8%;
+    padding: 0px;
+    min-height: 100vh;
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* min-height: 70vh; */
+    /* width: 60vw; */
+    margin: auto;
+    border-radius: 8px;
+    height: 100%;
+}
+#main-header{
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 0;
+    color: #ff7990;
+    font-size: 40px;
+    padding: 10px;
+    font-family: 'Chilanka', cursive;
+    font-weight: 700;
+    padding-left: 23px;
+}
+#content{
+    width: 50%;
+}
+#description{
+    color:white;
+    font-size: 21px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+#audio-header{
+    display: inline;
+    background: white;
+    border-radius: 10px 10px 0 0;
+    color: #f093af;
+    padding: 5 20 0 20;
+    font-size: 35px;
+    font-family: 'Gayathri', sans-serif;
+}
+#main-audio{
+    width:100%;
+}
+#desc-audio{
+    background-color: rgba(0,0,0,.5);
+    padding: 50px;
+    border-radius: 0 9px 9px 9px;
+}
+#main-footer{
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer-text{
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+}
+@media(max-width:1200px){
+    body{
+
+        grid-template-rows: 8% 97% 8%;
+    }
+    #content{
+        width:90%;
+    }
+    
+}
+@media(max-width:600px){
+    #description{
+        font-size: 18px;
+
+    }
+    #audio-header{
+        font-size: 25px;
+
+    }
+    #main-header{
+        font-size: 36px;
+    }
+    #footer-text{
+        font-size: 18px;;
+    }
+}
