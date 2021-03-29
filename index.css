@@ -79,9 +79,9 @@ body{
     
 }
 
-@media(max-width:600px){
+@media(max-width:1000px){
     #description{
-        font-size: 400px;
+        font-size: 40px;
 
     }
     #audio-header{
