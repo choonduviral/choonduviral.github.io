@@ -65,6 +65,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    height:10%;
 }
 #footer-text{
     font-size: 25px;
