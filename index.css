@@ -85,4 +85,7 @@ body{
     #footer-text{
         font-size: 25px;;
     }
+    #content{
+        width:85%;
+    }
 }
