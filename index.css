@@ -67,7 +67,7 @@ body{
     font-size: 25px;
     font-family: 'Quicksand', sans-serif;
 }
-/*
+
 @media(max-width:1200px){
     body{
 
@@ -81,7 +81,7 @@ body{
 
 @media(max-width:600px){
     #description{
-        font-size: 18px;
+        font-size: 40px;
 
     }
     #audio-header{
@@ -95,4 +95,3 @@ body{
         font-size: 18px;;
     }
 }
-*/
