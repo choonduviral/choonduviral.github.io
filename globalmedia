@@ -1,0 +1,191 @@
+<html>
+  <head>
+    <title>
+      Home
+    </title>
+    <style>
+    *{
+      margin:0px;
+    }
+    header{
+      position:fixed;
+      color:black ;
+      width:100%;
+      background-color:rgb(255,255,255);
+      
+      height:80px;
+      text-align: center;
+      box-shadow:0px 4px 6px grey;
+      
+    }
+    h1{
+      font-family:Comic Sans MS;
+      letter-spacing:4px ;
+    }
+    h2{
+      font-family:Comic Sans MS;
+      letter-spacing:8px ;
+      font-size: 8px;
+      position: fixed;
+      left:20px;
+    }
+   .control{
+     left:20px;
+     float:left;
+     position:relative ;
+     top:10px;
+   }
+  .main{
+    padding-top:100px;
+     position:scroll;
+     top:100px;
+     width: 95%;
+     color:black ;
+     font-family:Times New Roman;
+     padding-left: 10px;
+      padding-right: 10px;
+     
+   }
+   img{
+     width:100%;
+     height:auto;
+     position:scroll;
+     top:84px;
+   }
+  .logo{
+    height:40px;
+    width:40px;
+    float:right;
+    
+    position:fixed;
+    top:20px;
+    right:25px;
+    
+  }
+  a:hover {
+  background-color:rgb(218,179,3);
+}
+footer{
+  text-align:center;
+  color: white;
+  background-color:rgb(99,99,99);
+  height:300px;
+  position: scroll;
+  bottom: 0px;
+}
+.foot{
+  padding-top: 28px;
+  text-align:center;
+  color:white;
+  font-family:Arial;
+  background-color:black;
+  height:100px;
+  position:scroll;
+  bottom:0px;
+  
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  line-height: 60px;
+  display: block;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-family:Tahoma;
+  
+  
+}
+p{
+  text-align: justify;
+}
+    
+      
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="control">
+      <h1>GLOBAL MEDIA</h1>
+      <h2>HERE IS YOUR SOLUTIONS</h2>
+      <a href="https://enigma.csitkmce.tech/next/" >
+      <img class="logo" src="login.png">
+      </a>
+      </div>
+    </header>
+    <div class="main">
+      <img src="dog.png"><br><br>
+      <h3>How We gain the interest of 2Billion customers</h3>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more recently with desktop typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more. It 
+has survived not only five typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more
+publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br></p><br><br>
+<h3>Our mission, vision, and passion</h3><br>
+<p>It is a long established fact that a reader will be distracted by the readable content of a 
+page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-
+less normal distribution of letters, as opposed to using 'Content here, content here', 
+making it look like readable English. Many desktop publishing packages and web typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a typesetting industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more industry. Lorem 
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more of type and scrambled it to make a type specimen book. It 
+has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more 
+editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' 
+will uncover many web sites still in their infancy. Various versions have evolved over the 
+years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+    </div>
+    <footer>
+      <ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+      <div class="foot">
+       <h4>designed by Abhiram Krishnan</h4><br>
+       <h4>2021 Copyright protected ©</h4>
+      </div>
+      
+    </footer>
+  </body>
+</html>
